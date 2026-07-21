@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a graduate student in Computer Science (Artificial Intelligence) at Ferdowsi University of Mashhad, under the supervision of [Dr. Soheila Ashkezari](https://scholar.google.com/citations?user=ql5JirMAAAAJ&hl=en&oi=ao).
+I am a graduate student in Computer Science, specializing in Artificial Intelligence, at Ferdowsi University of Mashhad, under the supervision of [Dr. Soheila Ashkezari](https://scholar.google.com/citations?user=ql5JirMAAAAJ&hl=en&oi=ao).
 
 I am also an AI R&D Engineer at [C1Tech](https://c1tech.co/), where I work on speech and language technologies for Persian voice assistants. I have trained a Farsi speech-to-text model that outperforms existing systems such as Whisper and helped develop one of the first benchmarks for Farsi STT models. I also fine-tune large language models, including Qwen3 and Gemma 3, for intent extraction and slot filling, improving performance on low-resource language tasks.
 
@@ -15,7 +15,7 @@ Previously, I studied Computer Science at Quchan University of Technology and wo
 
 My research interests include computer vision, medical image processing, deep learning, robotics, and speech and language technologies.
 
-During my undergraduate studies, I was fortunate to work with [Professor Alireza Akbarzadeh Totonchi](https://scholar.google.com/citations?user=DhU-W1gAAAAJ&hl=en&oi=ao), [Professor Mohamad-Hoseyn Sigari](https://scholar.google.com/citations?hl=en&user=IVhk6cYAAAAJ&view_op=list_works&sortby=pubdate), and Professor Malihe Javidi.
+During my undergraduate studies, I was fortunate to work with [Professor Alireza Akbarzadeh Totonchi](https://scholar.google.com/citations?user=DhU-W1gAAAAJ&hl=en&oi=ao), [Dr.Mohamad-Hoseyn Sigari](https://scholar.google.com/citations?hl=en&user=IVhk6cYAAAAJ&view_op=list_works&sortby=pubdate), and Dr.Malihe Javidi.
 
 Education
 ======
@@ -31,4 +31,4 @@ Teaching Assistant Experience
 * **Advanced Computer Programming** — Fall 2021
 * **Data Structures** — Fall 2021
 
-You can also see my recent work on [GitHub](https://github.com/ParsaSinichi/).
+<!-- You can also see my recent work on [GitHub](https://github.com/ParsaSinichi/). -->
