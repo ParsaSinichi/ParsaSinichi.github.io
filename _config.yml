@@ -18,19 +18,19 @@ repository               : "ParsaSinichi/ParsaSinichi.github.io"
 # Leave fields empty when you do not want their icons displayed.
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Parsa.jpg"
   name             : "Parsa Sinichi"
   pronouns         :
-  bio              : "Academic portfolio and research profile."
-  location         :
-  employer         :
+  bio              : "Graduate student and AI R&D Engineer working on speech, language, and computer vision."
+  location         : "Mashhad, Iran"
+  employer         : "C1Tech"
   uri              : "https://parsasinichi.github.io"
-  email            :
+  email            : "sinichi.parsa@gmail.com"
 
   # Academic websites
   academia         :
   arxiv            :
-  googlescholar    :
+  googlescholar    : "https://scholar.google.com/citations?user=_LypPc4AAAAJ&hl=en&oi=ao"
   inspire-hep      :
   impactstory      :
   orcid            :
@@ -60,7 +60,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "parsa-sinichi-0148b2249"
   mastodon         :
   medium           :
   pinterest        :
@@ -75,15 +75,6 @@ author:
   xing             :
   youtube          :
   zhihu            :
-
-# Publication Categories
-publication_category:
-  books:
-    title: "Books"
-  manuscripts:
-    title: "Journal Articles"
-  conferences:
-    title: "Conference Papers"
 
 # Site Settings
 teaser                   :
@@ -234,9 +225,6 @@ collections:
     output: true
     permalink: /:collection/:path/
 
-  talks:
-    output: true
-    permalink: /:collection/:path/
 
 # Page and Collection Defaults
 defaults:
@@ -289,15 +277,6 @@ defaults:
       author_profile: true
       share: true
       comments: true
-
-  # Talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
 
 # Sass/SCSS
 sass:
