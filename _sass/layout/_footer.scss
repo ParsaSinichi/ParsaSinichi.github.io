@@ -10,16 +10,14 @@
   float: left;
   margin-left: 0;
   margin-right: 0;
-  margin-top: 3em;
+  margin-top: 2em;
   width: 100%;
   clear: both;
 
   /* keep footer in normal document flow so custom widgets do not overlap content */
   height: auto;
 
-  /* keep the footer on the bottom of the page */
-  position: fixed;
-  bottom: 0;
+  position: relative;
 
   -webkit-animation: intro 0.3s both;
           animation: intro 0.3s both;
@@ -31,9 +29,13 @@
     @include clearfix;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 1em;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1rem;
+    margin-top: 0;
     max-width: 100%;
-    padding: 0 1em 1em;
+    padding: 0.65rem 1rem;
 
     @include breakpoint($x-large) {
       max-width: $x-large;
@@ -57,20 +59,16 @@
   }
 }
 
-@media screen and (max-width: 768px) {
-  /* don't pin the footer on mobile devices */
-  .page__footer {
-    position: relative;
-    bottom: auto;
-  }
-}
-
 .page__footer-copyright {
   font-family: $global-font-family;
-  font-size: $type-size-7;
+  font-size: 0.68rem;
+  line-height: 1.35;
+  white-space: nowrap;
 }
 
 .page__footer-follow {
+  flex: 0 0 auto;
+
   ul {
     margin: 0;
     padding: 0;
@@ -79,10 +77,9 @@
 
   li {
     display: inline-block;
-    padding-top: 5px;
-    padding-bottom: 5px;
+    padding: 0;
     font-family: $sans-serif-narrow;
-    font-size: $type-size-6;
+    font-size: 0.68rem;
     text-transform: uppercase;
   }
 
@@ -100,5 +97,25 @@
     a {
       white-space: nowrap;
     }
+  }
+}
+
+.footer-separator {
+  padding: 0 0.35rem;
+  opacity: 0.65;
+}
+
+@media screen and (max-width: 768px) {
+  .page__footer footer {
+    display: block;
+    padding: 0.6rem 1rem;
+  }
+
+  .page__footer-follow {
+    margin-bottom: 0.25rem;
+  }
+
+  .page__footer-copyright {
+    white-space: normal;
   }
 }
