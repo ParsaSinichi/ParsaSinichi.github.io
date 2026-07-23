@@ -96,8 +96,8 @@
   }
 
   .publication-card {
-    margin-bottom: 0.75rem;
-    padding: 1.15rem 1.25rem 1rem;
+    margin-bottom: 0.65rem;
+    padding: 0.95rem 1.1rem 0.85rem;
     border: 1px solid var(--global-border-color);
     border-radius: 8px;
     background: var(--global-bg-color);
@@ -109,10 +109,10 @@
     }
 
     .archive__item-title {
-      margin: 0 0 0.45rem;
+      margin: 0 0 0.35rem;
       font-family: $global-font-family;
-      font-size: 1rem;
-      line-height: 1.4;
+      font-size: 0.92rem;
+      line-height: 1.35;
 
       a {
         text-decoration: none;
@@ -122,12 +122,12 @@
     .publication-meta,
     .publication-authors {
       color: var(--global-text-color-light);
-      font-size: 0.8rem;
-      line-height: 1.55;
+      font-size: 0.74rem;
+      line-height: 1.5;
     }
 
     .publication-meta {
-      margin: 0 0 0.35rem;
+      margin: 0 0 0.25rem;
 
       span {
         font-weight: 600;
@@ -143,8 +143,8 @@
     }
 
     .publication-actions {
-      margin: 0.65rem 0 0;
-      font-size: 0.78rem;
+      margin: 0.5rem 0 0;
+      font-size: 0.72rem;
     }
 
     .publication-paper-link {
