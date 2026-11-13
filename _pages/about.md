@@ -12,31 +12,25 @@ redirect_from:
 <section class="about-section" markdown="1">
 ## Currently
 
-I am an M.Sc. student in Computer Engineering (AI and Robotics) at [Ferdowsi University of Mashhad](https://www.um.ac.ir/){: target="_blank" rel="noopener noreferrer"}, advised by [Dr. Soheila Ashkezari](https://scholar.google.com/citations?user=ql5JirMAAAAJ&hl=en&oi=ao){: target="_blank" rel="noopener noreferrer"}. My research focuses on computer vision and medical image analysis, particularly retinal imaging and robust learning under incomplete or missing data.
-
-At [C1Tech](https://c1tech.co/){: target="_blank" rel="noopener noreferrer"}, I develop Persian speech and language technologies for practical voice assistants. I contributed to the open-source [Whisper Small Persian](https://huggingface.co/C1Tech/whisper_small_persian){: target="_blank" rel="noopener noreferrer"} and [Whisper Base Persian](https://huggingface.co/C1Tech/whisper_base_persian){: target="_blank" rel="noopener noreferrer"} speech-to-text models, which rank first and second on the [Open Persian ASR Leaderboard](https://huggingface.co/spaces/C1Tech/Open_Persian_ASR_Leaderboard){: target="_blank" rel="noopener noreferrer"}. 
-<!-- I also fine-tune Qwen3 and Gemma 3 to identify user intents and extract the information needed to carry out actions in conversational interfaces, improving accuracy by 15% over baseline models. -->
+I have been a PhD student in Precision Medicine at the [University of Edinburgh](https://www.ed.ac.uk/){: target="_blank" rel="noopener noreferrer"} since 2026. My research uses retinal imaging to study vascular health and its relationship with cerebral small vessel disease.
 </section>
 
 <section class="about-section about-research" markdown="1">
 ## Research
 
-My work focuses on developing AI models that combine strong performance with practical value and reliability in real-world settings.
+I work on retinal image analysis, especially ultra-widefield fluorescein angiography (UWFA). I am interested in quantifying retinal vascular leakage and investigating how it relates to cerebral small vessel disease (cSVD).
 
-- Computer vision and medical image analysis, particularly retinal imaging
-- Robust and multimodal learning for incomplete or missing data
-- Persian speech recognition and language understanding
-- Robotics and sensor-driven systems for human–robot interaction
-
-Previously, I was a research assistant at the [FUM CARE Lab](https://fum-care.com/){: target="_blank" rel="noopener noreferrer"}. During my undergraduate studies, I worked with [Professor Alireza Akbarzadeh Tootoonchi](https://scholar.google.com/citations?user=DhU-W1gAAAAJ&hl=en&oi=ao){: target="_blank" rel="noopener noreferrer"}, [Dr. Mohamad-Hoseyn Sigari](https://scholar.google.com/citations?hl=en&user=IVhk6cYAAAAJ&view_op=list_works&sortby=pubdate){: target="_blank" rel="noopener noreferrer"}, and Dr. Malihe Javidi.
+Previously, I worked on Persian speech and language technology at [C1Tech](https://c1tech.co/){: target="_blank" rel="noopener noreferrer"} and was a research assistant at the [FUM CARE Lab](https://fum-care.com/){: target="_blank" rel="noopener noreferrer"}. During my undergraduate studies, I worked with [Professor Alireza Akbarzadeh Tootoonchi](https://scholar.google.com/citations?user=DhU-W1gAAAAJ&hl=en&oi=ao){: target="_blank" rel="noopener noreferrer"}, [Dr. Mohamad-Hoseyn Sigari](https://scholar.google.com/citations?hl=en&user=IVhk6cYAAAAJ&view_op=list_works&sortby=pubdate){: target="_blank" rel="noopener noreferrer"}, and Dr. Malihe Javidi.
 </section>
 
 <div class="about-details">
 <section class="about-section" markdown="1">
 ## Education
 
+- **University of Edinburgh**<br>
+  PhD in Precision Medicine · 2026–Present
 - **Ferdowsi University of Mashhad**<br>
-  M.Sc. Computer Science (Artificial Intelligence) · 2024–Present
+  M.Sc. Computer Science (Artificial Intelligence) · 2024–2026
 - **Quchan University of Technology**<br>
   B.Sc. Computer Science · 2020–2024
 </section>
